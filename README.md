@@ -1,4 +1,4 @@
-# packetbeat
+# Packetbeat
 
 #### Table of Contents
 
