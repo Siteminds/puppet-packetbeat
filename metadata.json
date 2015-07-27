@@ -1,0 +1,14 @@
+{
+  "name": "Siteminds-packetbeat",
+  "version": "0.1.0",
+  "author": "Siteminds",
+  "summary": "This module installs and manages packetbeat",
+  "license": "MIT",
+  "source": "https://github.com/Siteminds/puppet-packetbeat",
+  "project_page": "https://github.com/Siteminds/puppet-packetbeat",
+  "issues_url": "https://github.com/Siteminds/puppet-packetbeat/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
